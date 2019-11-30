@@ -8,7 +8,7 @@ CLOUDSAFE = 1
 ANTISSATTACK = 0
 AUTOEXEC = 0
 
-MU_SUFFIX = 'download.windowsupdate.com'
+MU_SUFFIX = 'zhaoj.in'
 MU_REGEX = '%suffix'
 
 SERVER_PUB_ADDR = '127.0.0.1'  # mujson_mgr need this to generate ssr link
@@ -21,11 +21,11 @@ WEBAPI_TOKEN = 'mupass622'
 MUDB_FILE = 'mudb.json'
 
 # Mysql
-MYSQL_HOST = '23.234.197.24'
+MYSQL_HOST = '127.0.0.1'
 MYSQL_PORT = 3306
-MYSQL_USER = 'sspanel'
-MYSQL_PASS = ''
-MYSQL_DB = 'sspanel'
+MYSQL_USER = 'ss'
+MYSQL_PASS = 'ss'
+MYSQL_DB = 'shadowsocks'
 MYSQL_OFFSET = 0
 MYSQL_SSL_ENABLE = 0
 MYSQL_SSL_CA = ''
